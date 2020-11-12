@@ -2,6 +2,12 @@ const sidebar = require('./sidebar.json');
 module.exports = {
   title: 'Ecuder Document',
   description: 'Just playing around',
+  head: [
+    ['link', {
+      type: 'image/x-icon',
+      href: '/favicon.ico'
+    }]
+  ],
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
