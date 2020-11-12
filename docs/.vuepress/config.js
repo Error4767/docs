@@ -5,6 +5,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '指南', link: '/guide' },
       { text: 'GitHub', link: 'https://github.com/Error4767/Error4767-static/tree/master/Markdown' }
     ],
     sidebar: [
