@@ -1,0 +1,20 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unstable-node": "^0.0.1",
+    "vuepress-plugin-auto-sidebar": "^1.5.0",
+    "vuepress-plugin-autobar": "github:boboidream/vuepress-bar"
+  },
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
