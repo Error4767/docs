@@ -177,7 +177,7 @@ render(App, document.getElementById("app"));
 
 先创建一个样式文件以便下面使用
 ````css
-/* main.css */
+/* main.module.css */
 .container {
   width: 100px;
   height: 100px;
@@ -192,7 +192,7 @@ render(App, document.getElementById("app"));
 ##### 基本使用
 样式使用也与 React 非常类似，只是使用 class 而不是 className
 ````javascript
-import style from "./main.css";
+import style from "./main.module.css";
 
 export default function Container() {
   return (
