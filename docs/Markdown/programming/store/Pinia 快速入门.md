@@ -113,7 +113,7 @@ export const useStore = defineStore({
     otherStoreCount(state) {
       // 这里是其他的 Store，调用获取 Store，就和在 setup 中一样
       const otherStore = useOtherStore();
-      return state.count;
+      return otherStore.count;
     },
   }
 });
