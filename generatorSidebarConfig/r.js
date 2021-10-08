@@ -22,6 +22,7 @@ import fs from 'fs';
     }
     return node;
   });
-  console.log(rt);
-  fs.writeFileSync('./sidebar.json', JSON.stringify(rt, null, 2));
+  const sidebarJSON = JSON.stringify(rt, null, 2);
+  console.log(sidebarJSON);
+  fs.writeFileSync('./sidebar.json', sidebarJSON);
 })()
