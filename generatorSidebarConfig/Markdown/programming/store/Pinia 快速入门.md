@@ -82,7 +82,7 @@ Pinia 中的 Getters 直接在 Store 上读取，形似 Store.xx，就和一般�
 // 修改 store.js
 import { defineStore } from "pinia";
 
-import { otherState } from "@/store/otherState.js";
+import { useOtherStore } from "@/store/otherStore.js";
 
 export const useStore = defineStore({
   id: "myGlobalState",
@@ -118,10 +118,10 @@ export const useStore = defineStore({
   }
 });
 
-// otherState.js
+// otherStore.js
 import { defineStore } from "pinia";
 
-export const useStore = defineStore({
+export const useOtherStore = defineStore({
   id: "otherState",
   state: ()=> ({
     count: 5
