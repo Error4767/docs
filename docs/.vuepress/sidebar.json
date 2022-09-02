@@ -9,15 +9,29 @@
               "electronStudy"
             ]
           ],
+          "stat": {
+            "fileNumber": 1,
+            "folderNumber": 0,
+            "size": 5989
+          },
           "title": "electron"
         },
         {
           "children": [
             [
+              "/Markdown/programming/js/%E5%87%A0%E4%B8%AA%E5%85%B3%E4%BA%8E%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7%E7%9A%84%E9%99%B7%E9%98%B1",
+              "几个关于运算符优先级的陷阱"
+            ],
+            [
               "/Markdown/programming/js/%E5%8E%9F%E7%94%9F%20Javascript%20JSON%20Module",
               "原生 Javascript JSON Module"
             ]
           ],
+          "stat": {
+            "fileNumber": 2,
+            "folderNumber": 0,
+            "size": 6633
+          },
           "title": "js"
         },
         {
@@ -31,19 +45,29 @@
               "swiper"
             ]
           ],
+          "stat": {
+            "fileNumber": 2,
+            "folderNumber": 0,
+            "size": 2703
+          },
           "title": "npm-packs"
         },
         {
           "children": [
             [
-              "/Markdown/programming/store/mobx",
-              "mobx"
-            ],
-            [
               "/Markdown/programming/store/Pinia%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8",
               "Pinia 快速入门"
+            ],
+            [
+              "/Markdown/programming/store/mobx",
+              "mobx"
             ]
           ],
+          "stat": {
+            "fileNumber": 2,
+            "folderNumber": 0,
+            "size": 8081
+          },
           "title": "store"
         },
         {
@@ -53,6 +77,11 @@
               "webpack_Loader_Plugin"
             ]
           ],
+          "stat": {
+            "fileNumber": 1,
+            "folderNumber": 0,
+            "size": 350
+          },
           "title": "webpack"
         },
         {
@@ -62,6 +91,11 @@
               "一些知识点"
             ]
           ],
+          "stat": {
+            "fileNumber": 1,
+            "folderNumber": 0,
+            "size": 272
+          },
           "title": "其他"
         },
         {
@@ -71,6 +105,11 @@
               "solid-js 基础教程"
             ]
           ],
+          "stat": {
+            "fileNumber": 1,
+            "folderNumber": 0,
+            "size": 21223
+          },
           "title": "框架"
         },
         {
@@ -80,6 +119,11 @@
               "简单强大的断言库 power-assert"
             ]
           ],
+          "stat": {
+            "fileNumber": 1,
+            "folderNumber": 0,
+            "size": 9953
+          },
           "title": "测试"
         },
         {
@@ -89,17 +133,27 @@
               "git相关"
             ],
             [
-              "/Markdown/programming/%E8%B5%84%E6%BA%90/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F",
-              "内网穿透"
+              "/Markdown/programming/%E8%B5%84%E6%BA%90/%E4%BD%9C%E8%80%85%E7%9A%84%E6%95%B0%E6%8D%AE",
+              "作者的数据"
             ],
             [
-              "/Markdown/programming/%E8%B5%84%E6%BA%90/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90",
-              "浏览器相关资源"
+              "/Markdown/programming/%E8%B5%84%E6%BA%90/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F",
+              "内网穿透"
             ]
           ],
+          "stat": {
+            "fileNumber": 3,
+            "folderNumber": 0,
+            "size": 1580
+          },
           "title": "资源"
         }
       ],
+      "stat": {
+        "fileNumber": 14,
+        "folderNumber": 9,
+        "size": 56784
+      },
       "title": "programming"
     },
     {
@@ -109,8 +163,18 @@
           "搜索技巧"
         ]
       ],
+      "stat": {
+        "fileNumber": 1,
+        "folderNumber": 0,
+        "size": 515
+      },
       "title": "小技巧，方法"
     }
   ],
+  "stat": {
+    "fileNumber": 15,
+    "folderNumber": 11,
+    "size": 57299
+  },
   "title": "Markdown"
 }
