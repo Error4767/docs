@@ -145,7 +145,7 @@ export const useStore({
     // ...
   })
   // ...
-  actinos: {
+  actions: {
     countPlusOne() {
       this.count++;
     },
